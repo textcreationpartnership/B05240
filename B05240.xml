@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh the twentie day of May 1645 The Committee of Estates taking to their consideration the traiterous designes of the intestine enemie against this kingdome ...</title>
+            <author>Scotland. Parliament. Committee of Estates</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05240</idno>
+            <idno type="STC">Wing S1195C</idno>
+            <idno type="STC">ESTC R183976</idno>
+            <idno type="EEBO-CITATION">53299241</idno>
+            <idno type="OCLC">ocm 53299241</idno>
+            <idno type="VID">179978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179978)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh the twentie day of May 1645 The Committee of Estates taking to their consideration the traiterous designes of the intestine enemie against this kingdome ...</title>
+                  <author>Scotland. Parliament. Committee of Estates</author>
+                  <author>Primrose, Archibald, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at foot: Arch:Primerose Cler: Commiss.Par.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dundee (Scotland) --  History --  17th century --  Sources.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179978:1"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <dateline>At Edinburgh <date>the twentie day of May 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Eſtates taking to their conſideration the traiterous deſignes of the inteſtine enemie againſt this Kingdome, ſpecially the Towne of <hi>Dundie,</hi> as being a place of very great importance and concernment, and the diverſe aſſaults made bee them thereupon; Together with the reſolution and courage of the Inhabitants of the ſaid Towne, in oppoſing this Enemie; Whereupon hath followed not only the ſlaugh<g ref="char:EOLhyphen"/>ter of many of the ſaids Inhabitants of conſideerable condition, but alſo a great part of the biggings of that Towne, with the Cornes and Moveables belonging to the In<g ref="char:EOLhyphen"/>habitants thereof, hath been burnt to aſhes; whereby the ſaid Towne (which was one of the chiefe of this Kingdome)is fearefully defaced, and the Inhabitants, moſt part of them ruined; the Towne it ſelfe diſabled to undergoe theſe ſervices and bur<g ref="char:EOLhyphen"/>dens for the publick, which formerly they did, and without ſupply and help, this ſo ſteadable a member of the Common-weale, is like to decay. And the Committee of of Eſtates finding this Kingdome obliged by the mutuall League and Covenant, not onely to be ſenſible of their ſufferings, for this good and common Cauſe, but alſo to doe what in them lyes to ſet up the loſſes of the ſaid Towne, and to uphold the ſame from decay; And being confident of the affection and charitie of all good Patriots, and Chriſtians of this Kirk and Kingdome, for advancement of ſo good a worke, as is the upholding of the ſaid Towne; which hath been a barre to the overflowing outrages of the publick Enemie, and doth ſtill ſtrengthen themſelves againſt the ſame, in regard the En<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mie does not ceaſe, but is rather inraged with de<g ref="char:EOLhyphen"/>ſperate ſpite and malice againſt the ſaid Towne. Therefore the Lords and others of the Committee of Eſtates hath recommended, and be the tenor hereof Recommends the condition of the ſaid Towne to the Chriſtian and charitable conſideration of all perſons of whatſomever rank, qualitie, or degree, in Kirke and Sate within this Kingdome, and to the whole Judicatories, Civill and Eccleſiaſticall within the ſame. Requeſting and deſiring them, and every one of them to extend ſuch proportion of their liberality and charitie for the reliefe of the Inhabitants of the ſaid Towne, as the importance of the Cauſe requires. And the ſaids Lords hath entruſted the collection of this contribution and benevolence to ſuch perſons as ſhall be nominate and authorized bee the Proveſt, Baillies and Councell of <hi>Dundie.</hi> Giving, granting, and committing unto them full power and commiſſion to deale and travell with the whole Noble<g ref="char:EOLhyphen"/>men, Barons, and Gentlemen, Synods, Presbyteries and Seſſions of Kirks, Burrows townes and Villages and all others his Majeſties ſubjects to Burgh and Land, anent the benevolence and voluntarie contribution to be given for the ſupply of the ſaid Burgh. Which Commiſſioners ſhall have a book delivered to them be the Clerk of the Committe, whereof every leafe ſhall be marked be him. And wherein the Committee requeſts the Contributers to inſert their contribu<g ref="char:EOLhyphen"/>tions. And if any by flouth or negligence omitte to doe the ſame, that the Commiſſioners inſert themſelves, and report their diligence herein, with their books to the Committee upon the  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  To the in<g ref="char:EOLhyphen"/>tent they may know what ſummes are collected and how the ſame ſhall be imployed. And the ſaids Commiſſioners ſhall give their great and ſolemne oath at the reporting of their diligence and books, that they have not omitted nor left out of the ſaids books, any of the perſons contributers nor ſummes contributed, Requeſting hereby the Mo<g ref="char:EOLhyphen"/>derators of Synods and Presbyteries to give direction to the Miniſters of their ſeverall Pariſhes to ſtirre up their Pariſhoners to put to their helping hand to this ſo important and neceſſarie a buſſineſſe. This Commiſſion to indure for the ſpace of a yeare after the date hereof. And the Committee declares, that what ſhall be gotten for ſup<g ref="char:EOLhyphen"/>plie of the ſaid Burgh, be vertue of this Commiſſion, ſhall bee accounted in part of payment of their loſſe, for tryall whereof, commiſſion is granted.</p>
+            <closer>
+               <signed>Extractum Per me. Arch: Primeroſe Cler: Commiſſ. Par.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
